@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alec&#39;s Brain</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Alec&#39;s Brain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Sep 2021 17:08:37 -0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The first principle, self compassion, and self loathing</title>
+      <link>http://example.org/posts/self-compassion/</link>
+      <pubDate>Sun, 05 Sep 2021 17:08:37 -0700</pubDate>
+      
+      <guid>http://example.org/posts/self-compassion/</guid>
+      <description>The first principle of Unitarian Universalism is, &amp;ldquo;The Inherent Worth and Dignity of Every Person&amp;rdquo;.
+Sometimes I think about all the problems I see in the world, all of the things I could be doing, and all the things I&amp;rsquo;m not, and think to myself, &amp;ldquo;I&amp;rsquo;m so full of shit. I don&amp;rsquo;t really care about any of this. Otherwise I&amp;rsquo;d be doing something about it.&amp;rdquo;
+Lately I&amp;rsquo;ve been thinking, that&amp;rsquo;s not a very &amp;lsquo;first principle&amp;rsquo; thing to say to myself.</description>
+    </item>
+    
+  </channel>
+</rss>
